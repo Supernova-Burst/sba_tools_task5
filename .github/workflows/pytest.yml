@@ -1,4 +1,4 @@
-name: Python Test Automation
+name: Python Test Automation #Actions Workflow
 
 on:
   push:
